@@ -11,7 +11,7 @@ Currently: **Software Engineer @ Abstraction (Thinkwork)**
 
 ## 🚀 Featured Projects
 
-### 🧠 Thinkwork — *Founding Engineer*
+### 🧠 Thinkwork — *Co-Founder & CTO*
 
 An AI-native learning platform where assignments are structured as adaptive conversations, requiring users to demonstrate reasoning step-by-step instead of producing final answers.
 
@@ -22,7 +22,7 @@ An AI-native learning platform where assignments are structured as adaptive conv
 - Focused on treating AI as an **evaluation + reasoning system**, not just a generative tool  
 - Worked closely with founders to translate educational challenges into scalable system design  
 
-🔗 https://www.open-field.company/
+🔗 [https://www.open-field.company/](https://www.abstraction-edu.com/)
 
 ---
 
