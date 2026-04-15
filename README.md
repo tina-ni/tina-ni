@@ -52,20 +52,21 @@ Selected for PURM (competitive research program) to build scalable systems for l
 
 ---
 
-### 💻 Penn Spark Website
+### 💻 Penn Spark Website — Software Developer
 
 Developer on a production-facing platform used by a student organization at Penn.
 
-**Highlights:**
+**Spring 2026 — Atelic (Client Project)**
+- Building a React + TypeScript marketing site with dynamic routing and reusable UI systems  
+- Developing responsive, conversion-focused pages with consistent component structure  
+
+**Fall 2025 — Website Redesign**
 - Built and refined React-based UI components within an existing codebase  
 - Collaborated using Git workflows (PRs, code reviews) in a team setting  
 - Contributed to a platform used by hundreds of applicants each recruiting cycle  
-- Shipped incremental improvements while maintaining consistency across shared components  
+- Shipped incremental improvements while maintaining consistency across shared components
 
 🔗 https://pennspark.org/
-
-**Currently Working On:**
-- 🌍 **Atelic (In Progress)** — building a React + TypeScript marketing site with dynamic routing and reusable UI systems  
 
 ---
 
@@ -81,6 +82,8 @@ Worked on a production notetaking platform used by 500+ users.
 ---
 
 ## 🏫 Selected Academic Projects
+
+> ⚠️ Some projects are private due to academic policies. I’m happy to discuss details where permitted.
 
 ### 🎨 Paint App (OCaml, GUI) — *Private*
 - Built a GUI-based drawing application exploring functional programming  
