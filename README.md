@@ -1,6 +1,6 @@
-# Hi, I'm Tina Ni!
+# Hi, I'm Tina!
 
-Computer Science student at the University of Pennsylvania with a focus on full-stack and backend development.
+Computer Science student @ University of Pennsylvania with a focus on full-stack and backend development.
 
 Currently: **Software Engineer @ Abstraction (Thinkwork)**  
 → Building AI systems that enforce real understanding through checkpoint-based learning
