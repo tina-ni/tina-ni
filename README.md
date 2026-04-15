@@ -1,4 +1,4 @@
-# Hi, I'm Tina Ni
+# Hi, I'm Tina Ni!
 
 Computer Science student at the University of Pennsylvania with a focus on full-stack and backend development.
 
