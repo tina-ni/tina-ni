@@ -22,6 +22,7 @@ An AI-native learning platform where assignments are structured as adaptive conv
 
 🔗 https://www.abstraction-edu.com/
 
+---
 ### 🦆 ProDucktivity — *Chrome Extension*
 
 A productivity-focused Chrome extension that tracks browsing behavior and provides real-time feedback through an interactive UI.
