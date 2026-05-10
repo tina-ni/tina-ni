@@ -85,6 +85,15 @@ Worked on a production notetaking platform used by 500+ users.
 
 > ⚠️ Some projects are private due to academic policies. I’m happy to discuss details where permitted.
 
+### 🔬 Research Paper Recommendation System (Python, SQL, Dash, Scikit-learn)
+- Built an interactive recommendation dashboard for exploring similar academic papers using metadata from OpenAlex and Semantic Scholar
+- Implemented paper similarity search using K-Means clustering, PCA, and learned feature representations
+- Designed a SQLite-backed data pipeline to store, query, and serve paper metadata efficiently
+- Trained machine learning models including a decision tree for citation-likelihood prediction and an autoencoder for similarity discovery
+- Developed an interactive Dash frontend for visualizing paper clusters, nearest papers, and author-level insights
+
+🔗 https://github.com/tina-ni/CIS-2450-Final-Project
+
 ### 🎨 Paint App (OCaml, GUI) — *Private*
 - Built a GUI-based drawing application exploring functional programming  
 - Designed modular architecture using OCaml’s module system  
