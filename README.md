@@ -2,7 +2,7 @@
 
 Computer Science student @ University of Pennsylvania with a focus on full-stack and backend development.
 
-Currently: **Software Engineer RA @Computational Social Science Lab @Penn**
+Currently: **Software Engineer RA @Computational Social Science Lab at Penn**
 
 ---
 
