@@ -94,6 +94,8 @@ Worked on a production notetaking platform used by 500+ users.
 
 🔗 https://github.com/tina-ni/CIS-2450-Final-Project
 
+---
+
 ### 🎨 Paint App (OCaml, GUI) — *Private*
 - Built a GUI-based drawing application exploring functional programming  
 - Designed modular architecture using OCaml’s module system  
