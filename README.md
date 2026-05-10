@@ -2,8 +2,7 @@
 
 Computer Science student @ University of Pennsylvania with a focus on full-stack and backend development.
 
-Currently: **Software Engineer @ Abstraction (Thinkwork)**  
-→ Building AI systems that enforce real understanding through checkpoint-based learning
+Currently: **Software Engineer RA @Computational Social Science Lab @Penn**
 
 ---
 
@@ -42,7 +41,7 @@ A productivity-focused Chrome extension that tracks browsing behavior and provid
 
 ## 🤝 Experience
 
-### 🔬 CSSLab (PURM) — Software Engineer Research Assistant *(Incoming Summer 2026)*
+### 🔬 CSSLab (Computational Social Science Lab) — Software Engineer Research Assistant *(Incoming Summer 2026)*
 
 Selected for PURM (competitive research program) to build scalable systems for large-scale data and LLM applications in computational social science.
 
