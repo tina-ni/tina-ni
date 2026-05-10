@@ -21,6 +21,7 @@ An AI-native learning platform where assignments are structured as adaptive conv
 - Focused on treating AI as an evaluation + reasoning system, not just a generative tool  
 
 🔗 https://www.abstraction-edu.com/
+🎥 https://youtu.be/eXaWi4OCBpw?si=bM3N-TE25i2qv1Xl
 
 ---
 ### 🦆 ProDucktivity — *Chrome Extension*
