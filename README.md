@@ -8,7 +8,7 @@ Currently: **Software Engineer RA @ Computational Social Science Lab at Penn**
 
 ## 🚀 Featured Projects
 
-### 🧠 Thinkwork — *Co-Founder & CTO*
+### 🧠 Thinkwork — *Founding Software Engineer*
 
 An AI-native learning platform where assignments are structured as adaptive conversations, requiring users to demonstrate reasoning step-by-step instead of producing final answers.
 
