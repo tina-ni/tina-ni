@@ -6,7 +6,18 @@ Currently: **Software Engineer RA @ Computational Social Science Lab at Penn**
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Experience
+
+### 🔬 CSSLab (Computational Social Science Lab) — Software Engineer Research Assistant *(Incoming Summer 2026)*
+
+Selected for PURM (competitive research program) to build scalable systems for large-scale data and LLM applications in computational social science.
+
+**Focus:**
+- Building systems for large-scale data processing and analysis  
+- Applying LLMs to real-world datasets and information systems  
+- Working at the intersection of distributed systems, data, and AI  
+
+---
 
 ### 🧠 Thinkwork — *Founding Software Engineer*
 
@@ -22,33 +33,6 @@ An AI-native learning platform where assignments are structured as adaptive conv
 🔗 https://www.abstraction-edu.com/
 
 🎥 https://youtu.be/eXaWi4OCBpw?si=bM3N-TE25i2qv1Xl
-
----
-### 🦆 ProDucktivity — *Chrome Extension*
-
-A productivity-focused Chrome extension that tracks browsing behavior and provides real-time feedback through an interactive UI.
-
-**Highlights:**
-- Built using **JavaScript + Chrome Extensions API (Manifest v3)**  
-- Implemented a persistent overlay using **MutationObserver + DOM injection**  
-- Designed event-driven systems to track user activity and trigger real-time feedback  
-- Optimized for responsiveness with minimal performance overhead  
-- Explores behavioral design to encourage intentional browsing  
-
-🔗 https://github.com/tina-ni/ProDucktivity
-
----
-
-## 🤝 Experience
-
-### 🔬 CSSLab (Computational Social Science Lab) — Software Engineer Research Assistant *(Incoming Summer 2026)*
-
-Selected for PURM (competitive research program) to build scalable systems for large-scale data and LLM applications in computational social science.
-
-**Focus:**
-- Building systems for large-scale data processing and analysis  
-- Applying LLMs to real-world datasets and information systems  
-- Working at the intersection of distributed systems, data, and AI  
 
 ---
 
