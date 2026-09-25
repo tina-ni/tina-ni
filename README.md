@@ -8,27 +8,28 @@ Currently: **Software Engineer RA @ Computational Social Science Lab at Penn**
 
 ## 🤝 Experience
 
-### 🔬 CSSLab (Computational Social Science Lab) — Software Engineer Research Assistant *(Incoming Summer 2026)*
+### 🔬 CSSLab (Computational Social Science Lab) — Software Engineer Research Assistant
 
-Selected for PURM (competitive research program) to build scalable systems for large-scale data and LLM applications in computational social science.
+Working on **NOMAD**, an open-source toolkit for human mobility research and analysis.
 
 **Focus:**
-- Building systems for large-scale data processing and analysis  
-- Applying LLMs to real-world datasets and information systems  
-- Working at the intersection of distributed systems, data, and AI  
+- Implementing GPS stop-detection and destination-clustering algorithms from research literature
+- Building reusable Python APIs and tools for large-scale mobility analysis
+- Improving synthetic mobility simulations, validation workflows, and performance
+- Contributing to research tooling used in tutorials and academic work
 
 ---
 
-### 🧠 Thinkwork — *Founding Software Engineer*
+### 🧠 Abstraction — *Software Engineer*
 
-An AI-native learning platform where assignments are structured as adaptive conversations, requiring users to demonstrate reasoning step-by-step instead of producing final answers.
+An AI-native learning platform where assignments are structured as adaptive conversations, requiring students to demonstrate reasoning step-by-step instead of simply producing final answers.
 
 **Highlights:**
-- Built full-stack systems using **React, Node.js, and Supabase** for real-time, checkpoint-based learning workflows  
-- Designed backend architecture for **user state, progression, and evaluation across multi-step reasoning tasks**  
-- Developed RESTful APIs to structure assignments into **guided interactions with validation, feedback, and iterative probing**  
-- Built an LLM-backed checkpoint system to enforce sequential reasoning and prevent answer-skipping  
-- Focused on treating AI as an evaluation + reasoning system, not just a generative tool  
+- Built a full-stack assessment platform using **React, TypeScript, FastAPI, and PostgreSQL**
+- Designed backend systems for persistent student progress and checkpoint-based learning workflows
+- Implemented concurrency-safe progression so student state remains consistent across requests
+- Built server-side safeguards for trusted conversation history, response validation, and prompt-injection resistance
+- Worked across the stack on a small engineering team to take the platform from architecture to working demos
 
 🔗 https://www.abstraction-edu.com/
 
@@ -36,19 +37,19 @@ An AI-native learning platform where assignments are structured as adaptive conv
 
 ---
 
-### 💻 Penn Spark Website — Software Developer
+### 💻 Penn Spark — Software Developer
 
-Developer on a production-facing platform used by a student organization at Penn.
+Developer for Penn Spark, a student-run software development organization working with external clients.
 
 **Spring 2026 — Atelic (Client Project)**
-- Building a React + TypeScript marketing site with dynamic routing and reusable UI systems  
-- Developing responsive, conversion-focused pages with consistent component structure  
+- Built a production React + TypeScript marketing site with client-side routing and dynamic navigation
+- Translated Figma designs into reusable, responsive UI components and shared layout systems
+- Developed product and conversion-focused pages within a collaborative client project
 
-**Fall 2025 — Website Redesign**
-- Built and refined React-based UI components within an existing codebase  
-- Collaborated using Git workflows (PRs, code reviews) in a team setting  
-- Contributed to a platform used by hundreds of applicants each recruiting cycle  
-- Shipped incremental improvements while maintaining consistency across shared components
+**Fall 2025 — Penn Spark Website**
+- Developed and refined React components within the organization’s existing website
+- Collaborated through Git workflows and shared component patterns
+- Contributed to a site used by 100+ applicants and clients each recruiting cycle
 
 🔗 https://pennspark.org/
 
@@ -56,12 +57,23 @@ Developer on a production-facing platform used by a student organization at Penn
 
 ### 🧠 VitaMed AI — Software Engineer *(Short-Term / Project-Based)*
 
-Worked on a production notetaking platform used by 500+ users.
+Worked on web tools supporting a healthcare-focused platform used by hundreds of users.
 
 **Highlights:**
-- Maintained and improved a live React + TypeScript application, resolving bugs and supporting feature updates  
-- Built a responsive Office Hours page with Zoom integration used by 100+ users  
-- Worked within an existing codebase to ship user-facing features quickly  
+- Built a responsive Office Hours page with Zoom integration used by 100+ users
+- Migrated existing Google Sheets data into Supabase for a note-taking platform used by 500+ users
+- Worked within an existing React + TypeScript codebase to ship production-facing features
+
+---
+
+### 📚 University of Pennsylvania — CIS 1600 Teaching Assistant
+
+Teaching assistant for Penn's introductory discrete mathematics course covering combinatorics, probability, logic, and graph theory.
+
+**Highlights:**
+- Led a 5-person Recitation Committee creating weekly instructional materials and practice problems
+- Taught a weekly recitation and held office hours for students
+- Supported a course serving 200+ students through teaching, grading, and written feedback
 
 ---
 
@@ -69,34 +81,11 @@ Worked on a production notetaking platform used by 500+ users.
 
 > ⚠️ Some projects are private due to academic policies. I’m happy to discuss details where permitted.
 
-### 🔬 Research Paper Recommendation System (Python, SQL, Dash, Scikit-learn)
-- Built an interactive recommendation dashboard for exploring similar academic papers using metadata from OpenAlex and Semantic Scholar
-- Implemented paper similarity search using K-Means clustering, PCA, and learned feature representations
-- Designed a SQLite-backed data pipeline to store, query, and serve paper metadata efficiently
-- Trained machine learning models including a decision tree for citation-likelihood prediction and an autoencoder for similarity discovery
-- Developed an interactive Dash frontend for visualizing paper clusters, nearest papers, and author-level insights
+### 🔬 Research Paper Recommendation System (Python, SQLite, Dash, Scikit-learn, PyTorch)
 
-🔗 https://github.com/tina-ni/CIS-2450-Final-Project
+- Built a recommendation pipeline combining OpenAlex and Semantic Scholar metadata across 73K+ research papers
+- Created paper representations using TF-IDF, dimensionality reduction, and learned embeddings
+- Trained an autoencoder for similarity-based recommendations and compared performance against an SVD baseline
+- Built an interactive Dash interface for exploring recommended papers and their metadata
 
----
-
-### 🎨 Paint App (OCaml, GUI) — *Private*
-- Built a GUI-based drawing application exploring functional programming  
-- Designed modular architecture using OCaml’s module system  
-- Implemented event-driven input handling for interactive rendering  
-
----
-
-### 🔢 2048 (Java, Swing) — *Private*
-- Implemented full game using MVC architecture  
-- Built undo functionality using a deque-based state history  
-- Designed a fully testable model with JUnit  
-- Rendered dynamic UI updates based on game state  
-
----
-
-### 🐍 Snake Game (Java) — *Private*
-- Implemented real-time movement and rendering using WASD controls  
-- Designed systems for randomized food and obstacle generation  
-- Built game state management (score tracking, restart logic, collisions)  
-- Structured code using clean object-oriented design principles  
+🔗 [https://github.com/tina-ni/CIS-2450-Final-Project](https://github.com/tina-ni/CIS-2450-Final-Project)
