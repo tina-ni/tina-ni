@@ -18,6 +18,8 @@ Working on **NOMAD**, an open-source toolkit for human mobility research and ana
 - Improving synthetic mobility simulations, validation workflows, and performance
 - Contributing to research tooling used in tutorials and academic work
 
+🔗 https://github.com/Watts-Lab
+
 ---
 
 ### 🧠 Abstraction — *Software Engineer*
